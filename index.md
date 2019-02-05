@@ -29,7 +29,7 @@ Algunos videos de nuestro trabajo en centros comunitarios.
 
 [Recomendaciones institucionales](documentos/recinst.pdf)
 
-[Constancia y programa del Instituto Nacional del Emprendedor (INADEM)](documentos/INADEM_NESEJ_CONSTANCIA_Y_PROGRAMA.pdf)
+[Constancia y programa del Instituto Nacional del Emprendedor (INADEM)](documentos/inadem.pdf)
 
 [Curso para la Federación de Escuelas Particulares del Estado de Coahuila](documentos/fep.pdf)
 
