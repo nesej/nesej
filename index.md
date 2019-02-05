@@ -25,6 +25,14 @@ Algunos videos de nuestro trabajo en centros comunitarios.
 
 ## Documentos
 
+[Carta de la Subsecretaría de Prevención y Participación Ciudadana](documentos/CARTA_S_PREVENCION_SOCIAL_2017.pdf)
+
+[Recomendaciones institucionales](documentos/RECOMENDACIONES_DE_INSTITUCIONES.pdf)
+
+[Constancia y programa del Instituto Nacional del Emprendedor (INADEM)](documentos/INADEM_NESEJ_CONSTANCIA_Y_PROGRAMA.pdf)
+
+[Curso para la Federación de Escuelas Particulares del Estado de Coahuila](documentos/FEP_CURSO.pdf)
+
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/Jcoeminc14I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
