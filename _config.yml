@@ -1,0 +1,11 @@
+# Site settings
+title: NESEJ
+tag_text: NESEJ
+description: NESEK
+
+url: ""
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
